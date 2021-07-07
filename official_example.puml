@@ -10,9 +10,8 @@ LifeLineBackgroundColor #A9DCDF
 
 ParticipantBorderColor DeepSkyBlue
 ParticipantBackgroundColor DodgerBlue
-ParticipantFontName Impact
 ParticipantFontSize 17
-ParticipantFontColor #A9DCDF
+ParticipantFontColor #white
 
 ActorBackgroundColor aqua
 ActorFontColor DeepSkyBlue
